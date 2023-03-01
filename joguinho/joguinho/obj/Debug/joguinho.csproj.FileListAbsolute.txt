@@ -1,0 +1,12 @@
+C:\Users\carol\source\repos\joguinho\joguinho\bin\Debug\joguinho.exe.config
+C:\Users\carol\source\repos\joguinho\joguinho\bin\Debug\joguinho.exe
+C:\Users\carol\source\repos\joguinho\joguinho\bin\Debug\joguinho.pdb
+C:\Users\carol\source\repos\joguinho\joguinho\obj\Debug\joguinho.csproj.AssemblyReference.cache
+C:\Users\carol\source\repos\joguinho\joguinho\obj\Debug\joguinho.csproj.SuggestedBindingRedirects.cache
+C:\Users\carol\source\repos\joguinho\joguinho\obj\Debug\joguinho.Form1.resources
+C:\Users\carol\source\repos\joguinho\joguinho\obj\Debug\joguinho.Properties.Resources.resources
+C:\Users\carol\source\repos\joguinho\joguinho\obj\Debug\joguinho.csproj.GenerateResource.cache
+C:\Users\carol\source\repos\joguinho\joguinho\obj\Debug\joguinho.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\joguinho\joguinho\obj\Debug\joguinho.exe
+C:\Users\carol\source\repos\joguinho\joguinho\obj\Debug\joguinho.pdb
+C:\Users\carol\source\repos\joguinho\joguinho\obj\Debug\joguinho.Form2.resources
